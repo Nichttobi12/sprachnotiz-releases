@@ -4,25 +4,25 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Sprachnotiz</title>
         <item>
-            <title>0.6.2</title>
-            <pubDate>Wed, 21 Oct 2026 15:14:35 +0200</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+            <title>0.7.0</title>
+            <pubDate>Wed, 21 Oct 2026 20:25:42 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Schmale Glaskarte und neue Einstellungen</h2>
+            <description><![CDATA[<h2>Einfach installieren und direkt einrichten</h2>
 <ul>
-<li>Lesekarte mit 410 Punkten Standardbreite, mehr Höhe und Siri-artigem Farblicht auf Liquid Glass.</li>
-<li>Dezente Bedienelemente: Kurzfassung über die Funkeln-Taste, Ansichtswechsel erst nach erstellter Zusammenfassung.</li>
-<li>Vergrößern nutzt mehr Höhe bei gleicher Breite.</li>
-<li>Einstellungen als schmaleres, höheres Glasfenster mit nativen macOS-Schaltern.</li>
+<li>Neue DMG mit App, Programme-Verknüpfung und klarer Ziehen-Anleitung.</li>
+<li>Beim ersten Start: Audioordner wählen und Anmeldestart ausdrücklich festlegen.</li>
+<li>Unterbrochene Einrichtung lässt sich fortsetzen; vorhandene Ordner und Einstellungen bleiben erhalten.</li>
+<li>Eigenes Wellenform-App-Symbol, schmale Liquid-Glass-Lesekarte und lokale Kurzfassung.</li>
 </ul>
-<p>Audios und Zusammenfassungen bleiben lokal. Das öffentliche Repository enthält keinen App-Quellcode.</p>
+<p>Updates innerhalb der App funktionieren weiter. Audios, Transkripte und Quellcode bleiben lokal.</p>
 ]]></description>
-            <enclosure url="https://github.com/Nichttobi12/sprachnotiz-releases/releases/download/v0.6.2/Sprachnotiz-0.6.2.zip" length="1515261" type="application/octet-stream" sparkle:edSignature="wjJyyd33rnDUlHClpqUOk/uMtYDoehJpylQwZJnNNZS7JqeUGxAhmQVNsvicQ2sg8XLKmK60Y4oVgGjTDI2gAg=="></enclosure>
+            <enclosure url="https://github.com/Nichttobi12/sprachnotiz-releases/releases/download/v0.7.0/Sprachnotiz-0.7.0.zip" length="2495727" type="application/octet-stream" sparkle:edSignature="3H0MRyG4wgmPKdHCPXY9mkDVltPO80PIh5/WZMV89uhNPeC6bo99t6tH+b8Ca6n9iVzdyWb0qqr97dhR98onDA=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: RuWoNHuyT7s4FAYyLBXT7WqDXC5ajuM6wvMFduDK+tnjehl6qIMR+3pplshOm2dr78FLzEsalPgm/siB66K0Ag==
-length: 1744
+edSignature: OBmlvD+LpPKubaPIJUA+IkEwrnV0Ycv5zC9K5TYCLYg0gnPBl8LHwtYeFzcE8lH5dORbyCZTbbK6pIEtzPAuBA==
+length: 1737
 -->
