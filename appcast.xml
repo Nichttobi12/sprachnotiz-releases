@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sprachnotiz</title>
+        <item>
+            <title>0.6.0</title>
+            <pubDate>Wed, 21 Oct 2026 14:44:28 +0200</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<ul>
+<li>Menüleisten-App mit Pause, letzten Texten und Einstellungen.</li>
+<li>Größere Liquid-Glass-Lesekarte mit Vergrößern-Taste und einstellbarer Schrift.</li>
+<li>Lokale Zusammenfassungen über Apple Intelligence; Volltext bleibt erhalten.</li>
+<li>Mehrere Audioordner, Dateifilter und Drag-and-drop.</li>
+<li>Signierte Update-Dateien und regelmäßige Update-Prüfung über GitHub.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Nichttobi12/sprachnotiz-releases/releases/download/v0.6.0/Sprachnotiz-0.6.0.zip" length="1479848" type="application/octet-stream" sparkle:edSignature="oovX/tgDCh9xMCYh4znXAsEsK7lFECV0LvGJQ1Gu/oXYBDzkvxGjxSZaIto/94875AXtOF2uVEVVvj8DXFWDCA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 3RcObmLS2/3O0Le5fZ6QTdmjHHkKycS1tUF44gXRz1QFo0gY0hgPKr0pSB+xt5/NfV6DltLZD5gHj4RF+AL/BA==
+length: 1596
+-->
