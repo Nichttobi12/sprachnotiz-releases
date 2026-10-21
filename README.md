@@ -6,10 +6,12 @@ Eine private macOS-App für lokale Audio-Transkription und Zusammenfassungen mit
 
 ## Installation
 
-1. Die ZIP-Datei unter [Releases](https://github.com/Nichttobi12/sprachnotiz-releases/releases/latest) herunterladen und entpacken.
-2. `Sprachnotiz.app` nach `Programme` ziehen und öffnen.
-3. Oben in der Menüleiste das Wellenform-Symbol öffnen. Unter **Einstellungen → Audioquellen** den eigenen Downloads-Ordner oder weitere Audioordner hinzufügen.
-4. Neue Audiodateien in diesen Ordnern werden automatisch erkannt. Bestehende Dateien werden beim Start übersprungen.
+1. Die [DMG für Version 0.7.0 herunterladen](https://github.com/Nichttobi12/sprachnotiz-releases/releases/download/v0.7.0/Sprachnotiz-0.7.0.dmg) und öffnen.
+2. `Sprachnotiz.app` im Installationsfenster auf `Programme` ziehen und anschließend aus dem Programme-Ordner starten.
+3. Bei der Ersteinrichtung den Audioordner auswählen und entscheiden, ob die App beim Anmelden starten soll. Beides kann auch später in den Einstellungen geändert werden.
+4. Neue Audiodateien im ausgewählten Ordner werden automatisch erkannt. Bestehende Dateien werden beim Start übersprungen.
+
+Bei Updates bleiben bestehende Ordner und Einstellungen erhalten; die Ersteinrichtung erscheint nur bei einer neuen Installation. Die zusätzliche ZIP in den Releases dient dem eingebauten Update-Kanal.
 
 Voraussetzungen: Apple-Silicon-Mac und macOS 26 oder neuer. Getestet auf macOS 27.0.1. Lokale Zusammenfassungen erfordern ein verfügbares Apple-Intelligence-Sprachmodell. Die App führt keinen Cloud-Fallback durch.
 
