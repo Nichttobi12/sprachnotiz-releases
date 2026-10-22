@@ -4,25 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Sprachnotiz</title>
         <item>
-            <title>0.8.0</title>
-            <pubDate>Wed, 21 Oct 2026 20:58:44 +0200</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+            <title>0.8.1</title>
+            <pubDate>Thu, 22 Oct 2026 08:52:39 +0200</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Kostenlose Beta mit privater Audioverarbeitung</h2>
-<ul>
-<li>Signierte Beta-Freigabe: einmal online aktivieren, danach bis zu 7 Tage offline nutzen.</li>
-<li>Nach sieben Tagen ist eine erneute Verbindung nötig. Ohne Freigabe pausieren neue Transkriptionen und Kurzfassungen; vorhandene Texte bleiben lesbar und Dateien bleiben erhalten.</li>
-<li>Die Prüfung lädt nur eine öffentliche Freigabedatei von GitHub. Es werden keine Audios, Transkripte, Dateinamen oder Gerätekennungen übertragen; GitHub sieht übliche Verbindungsdaten.</li>
-<li>Feedback-Knopf in Menü und Einstellungen: öffnet ein GitHub-Formular ohne automatische Anhänge oder Versand.</li>
-</ul>
-<p>Der Feedbackbeitrag wird erst durch den Nutzer veröffentlicht und ist öffentlich. Bitte keine Audios, Transkripte oder persönlichen Daten einfügen.</p>
+            <description><![CDATA[<h2>Saubere Glaskante in den Einstellungen</h2>
+<p>Der zusätzliche macOS-Fensterrahmen hinter der Glaskarte wurde entfernt. Die Einstellungen haben jetzt eine einzige durchgehende Glaskontur, mit Schließen und Minimieren innerhalb der Karte.</p>
+<p>Audioverarbeitung, Beta-Freigabe, Ordnerauswahl und Feedback funktionieren wie bisher.</p>
 ]]></description>
-            <enclosure url="https://github.com/Nichttobi12/sprachnotiz-releases/releases/download/v0.8.0/Sprachnotiz-0.8.0.zip" length="2581357" type="application/octet-stream" sparkle:edSignature="wILisNwgmIK9GrvfgDA/823cTVYq0rj/8D2/ir0zANb0VTqLlB6EvE306Ws+hoX5O6Ju4ZreCwGQOeTNUBNICg=="></enclosure>
+            <enclosure url="https://github.com/Nichttobi12/sprachnotiz-releases/releases/download/v0.8.1/Sprachnotiz-0.8.1.zip" length="2590395" type="application/octet-stream" sparkle:edSignature="lVYcqi2XgXH8ZpHID8QxlZxbr9RQU9HnvKUb93lpFOJerr0lVWkgHNeXuAgnFu+yZMYCONxEdcQxkCnrk5S5Bg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: ifgcTIo2U7zZZglaC2/cwY0CPFHpIaoKpMgB6ptWJ+uT/AAjY3epd9OsjpL7UJ5+LDUEL2DMxpcHYhqMJx+RDg==
-length: 2026
+edSignature: z1by1FnxggysSdiSx17BHu+jdd+PBJUpeBdZeQpmtzCPRyRRP6eVfPqogT7/V93kkk0gyGcklM6nbLW7mDFgAw==
+length: 1536
 -->
