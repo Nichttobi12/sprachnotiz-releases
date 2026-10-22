@@ -4,19 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Sprachnotiz</title>
         <item>
-            <title>0.8.2</title>
-            <pubDate>Thu, 22 Oct 2026 09:00:08 +0200</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
+            <title>0.8.3</title>
+            <pubDate>Thu, 22 Oct 2026 09:09:02 +0200</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.8.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Einstellungen ohne äußeren Schatten</h2>
-<p>Die verbliebene Schattenebene und der äußere transparente Rand der Einstellungen wurden entfernt. Die Glasfläche wird an ihrer Rundung beschnitten, damit auch der Glaseffekt keinen Schatten außerhalb der Karte zeichnet.</p>
-]]></description>
-            <enclosure url="https://github.com/Nichttobi12/sprachnotiz-releases/releases/download/v0.8.2/Sprachnotiz-0.8.2.zip" length="2590072" type="application/octet-stream" sparkle:edSignature="k4wNAdZo+nh7d7NjxeTtz5ojdTPoI41RjSmnmf70sJ9QXw5QVvsoVHjRiqC2zaY9xNfWvhbq7c0byFHP6eDMAg=="></enclosure>
+            <description><![CDATA[<h2>Einstellungen verschieben</h2><p>Das Einstellungsfenster lässt sich am gesamten Kopfbereich mit gedrückter Maustaste verschieben. Schließen, Minimieren und die Einstellungen bleiben wie gewohnt bedienbar.</p>]]></description>
+            <enclosure url="https://github.com/Nichttobi12/sprachnotiz-releases/releases/download/v0.8.3/Sprachnotiz-0.8.3.zip" length="2593168" type="application/octet-stream" sparkle:edSignature="nXKFxMhx27o2c203oKgyuOvYjxXLumrEynJAFGIHIcLkRl6zaMULoCZxu8WWDBvgpRSqzBJJRd+UCqMEEMqfBw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 9RrOvOVdNhkhA8EYv7z9+C6pDTG+JrN3QjP43Ef2eBgGfJ88Ad8V2+rYmmZrhXkDdeNGvoZrL7+U31ckOB/tDg==
-length: 1472
+edSignature: mrI/8EhdkNToqk2tsbiK8tEeHdCaXhnabcKTFfQ2Ih//B0oZ6S9mDGZcj084o2zZ/PI+Yq7+ETjYhEiiUoPzBQ==
+length: 1409
 -->
