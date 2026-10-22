@@ -6,13 +6,13 @@ Eine private macOS-App für lokale Audio-Transkription und Zusammenfassungen mit
 
 ## Beta testen
 
-**[Produktseite & interaktive Demo](https://sprachnotiz-beta.ksp2vzjr2t.chatgpt.site/)** · **[English](https://sprachnotiz-beta.ksp2vzjr2t.chatgpt.site/en.html)** · **[Beta-Feedback geben](https://github.com/Nichttobi12/sprachnotiz-releases/issues/new?template=beta-feedback.yml)**
+**[Produktseite & interaktive Demo](https://transkript.hellbyte.de/)** · **[English](https://transkript.hellbyte.de/en.html)** · **[Beta-Feedback geben](https://github.com/Nichttobi12/sprachnotiz-releases/issues/new?template=beta-feedback.yml)**
 
 Wir suchen erste Tester mit Apple Silicon und macOS 26 oder neuer. Besonders hilfreich: Rückmeldungen zur Ersteinrichtung, Erkennung neuer Audios und Lesekarte. Bitte nur unkritische Testaufnahmen verwenden und keine privaten Audios oder Transkripte öffentlich teilen. Die Beta ist kostenlos; spätere Preise sind noch offen. Die App-Oberfläche ist derzeit deutsch, Transkription ist auf Deutsch und Englisch verfügbar.
 
 ## Installation
 
-1. Die [DMG für Version 0.8.3 herunterladen](https://github.com/Nichttobi12/sprachnotiz-releases/releases/download/v0.8.3/Sprachnotiz-0.8.3.dmg) und öffnen.
+1. Die [DMG für Version 0.8.3 herunterladen](https://transkript.hellbyte.de/downloads/Sprachnotiz-0.8.3.dmg) und öffnen.
 2. `Sprachnotiz.app` im Installationsfenster auf `Programme` ziehen und anschließend aus dem Programme-Ordner starten.
 3. Bei der Ersteinrichtung den Audioordner auswählen und entscheiden, ob die App beim Anmelden starten soll. Beides kann auch später in den Einstellungen geändert werden.
 4. Neue Audiodateien im ausgewählten Ordner werden automatisch erkannt. Bestehende Dateien werden beim Start übersprungen.
