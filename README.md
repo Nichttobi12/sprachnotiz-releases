@@ -4,6 +4,12 @@ Eine private macOS-App für lokale Audio-Transkription und Zusammenfassungen mit
 
 **Dieses öffentliche Repository enthält ausschließlich fertige App-Downloads, Anleitung und Update-Informationen. Der Quellcode wird hier nicht veröffentlicht.** Die von GitHub automatisch angebotenen „Source code“-Archive enthalten nur die Dateien dieses Download-Repositories.
 
+## Beta testen
+
+**[Produktseite & interaktive Demo](https://sprachnotiz-beta.ksp2vzjr2t.chatgpt.site/)** · **[English](https://sprachnotiz-beta.ksp2vzjr2t.chatgpt.site/en.html)** · **[Beta-Feedback geben](https://github.com/Nichttobi12/sprachnotiz-releases/issues/new?template=beta-feedback.yml)**
+
+Wir suchen erste Tester mit Apple Silicon und macOS 26 oder neuer. Besonders hilfreich: Rückmeldungen zur Ersteinrichtung, Erkennung neuer Audios und Lesekarte. Bitte nur unkritische Testaufnahmen verwenden und keine privaten Audios oder Transkripte öffentlich teilen. Die Beta ist kostenlos; spätere Preise sind noch offen. Die App-Oberfläche ist derzeit deutsch, Transkription ist auf Deutsch und Englisch verfügbar.
+
 ## Installation
 
 1. Die [DMG für Version 0.8.3 herunterladen](https://github.com/Nichttobi12/sprachnotiz-releases/releases/download/v0.8.3/Sprachnotiz-0.8.3.dmg) und öffnen.
