@@ -12,7 +12,7 @@ Wir suchen erste Tester mit Apple Silicon und macOS 26 oder neuer. Besonders hil
 
 ## Installation
 
-1. Die [DMG für Version 0.8.3 herunterladen](https://transkript.hellbyte.de/downloads/Sprachnotiz-0.8.3.dmg) und öffnen.
+1. Die [DMG für Version 0.8.3 herunterladen](https://github.com/Nichttobi12/sprachnotiz-releases/releases/download/v0.8.3/Sprachnotiz-0.8.3.dmg) und öffnen.
 2. `Sprachnotiz.app` im Installationsfenster auf `Programme` ziehen und anschließend aus dem Programme-Ordner starten.
 3. Bei der Ersteinrichtung den Audioordner auswählen und entscheiden, ob die App beim Anmelden starten soll. Beides kann auch später in den Einstellungen geändert werden.
 4. Neue Audiodateien im ausgewählten Ordner werden automatisch erkannt. Bestehende Dateien werden beim Start übersprungen.
