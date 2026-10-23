@@ -12,7 +12,7 @@ Wir suchen erste Tester mit Apple Silicon und macOS 26 oder neuer. Besonders hil
 
 ## Installation
 
-1. Die [DMG für Version 0.8.3 herunterladen](https://github.com/Nichttobi12/sprachnotiz-releases/releases/download/v0.8.3/Sprachnotiz-0.8.3.dmg) und öffnen.
+1. Die [DMG für Version 0.9.0 herunterladen](https://github.com/Nichttobi12/sprachnotiz-releases/releases/download/v0.9.0/Sprachnotiz-0.9.0.dmg) und öffnen.
 2. `Sprachnotiz.app` im Installationsfenster auf `Programme` ziehen und anschließend aus dem Programme-Ordner starten.
 3. Bei der Ersteinrichtung den Audioordner auswählen und entscheiden, ob die App beim Anmelden starten soll. Beides kann auch später in den Einstellungen geändert werden.
 4. Neue Audiodateien im ausgewählten Ordner werden automatisch erkannt. Bestehende Dateien werden beim Start übersprungen.
@@ -36,7 +36,9 @@ Der Feedback-Knopf öffnet ein öffentliches GitHub-Formular, für das ein GitHu
 - Wellenform-Symbol: Pause, Audiodateien öffnen, letzte Karte, letzte Texte und Einstellungen.
 - Lesekarte: Volltext/Kurzfassung, Funkeln-Taste zum Zusammenfassen, Vergrößern, Kopieren und Schließen.
 - Einstellungen: mehrere Audioordner, Dateifilter, Kartenbreite, Schriftgröße, Position, Anmeldestart und optionales Aufräumen.
-- Audios können auch manuell geöffnet oder in die Ablagefläche des Menüfensters bzw. in das Fenster „Letzte Texte“ gezogen werden.
+- Audios können direkt auf das Symbol in der Menüleiste, in die Ablagefläche des Menüfensters oder in „Letzte Texte“ gezogen sowie manuell geöffnet werden.
+- Unter **Einstellungen → Quellen** lassen sich Dateinamen nach „Beginnt mit“ und „Enthält“ filtern; optional auch für manuelle Importe.
+- Unter **Allgemein → Eigenen Wortschatz verwenden** kann die lokale Diktaterkennung bis zu 100 Namen und kurze Fachbegriffe berücksichtigen. Die Standarderkennung bleibt auswählbar; eine fehlerfreie Erkennung ist nicht garantiert.
 - Beim optionalen Aufräumen wird nur die erfolgreich transkribierte, unveränderte Datei zur geschlossenen Karte aus einem überwachten Ordner in den Papierkorb verschoben. Manuell geöffnete oder abgelegte Dateien bleiben erhalten.
 
 Transkripte und Kurzfassungen liegen nur bis zum Beenden der App im Arbeitsspeicher. Die Ordnerberechtigungen werden auf jedem Mac separat eingerichtet. Audioinhalte werden nicht an GitHub übermittelt. Fehlende Sprachmodelle lädt macOS von Apple.
